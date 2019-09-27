@@ -27,7 +27,7 @@ This HomeKit enabled sensor works the same as Elgato EVE Wheather!
 **Demo:**
 
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/ios.gif" class="center" width="450"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/ios.gif" class="center" width="250"/>
 
 <br/>
 <br/>
