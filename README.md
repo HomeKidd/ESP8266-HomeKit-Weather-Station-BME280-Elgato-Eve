@@ -14,14 +14,15 @@ ESP8266 based  HomeKit Weather Station using Bosch BME280 temperature, humidi
 
 For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/wiki/Build-Instructions) Wiki page!<br/><br/>
 
-**Features:**
 
-This HomeKit enabled sensor works the same as Elgato EVE Wheather!
+**This HomeKit enabled sensor works the same as [Elgato EVE Degree](https://www.evehome.com/en/eve-degree)!** 
+
+**Features:**
 
 * Temerature Measuring
 * Humidity Measuring
-* Barometric Pressure Measuring (only in 3rd party HomeKit apps!)
-* Custom characteristic for detecting your altitude (used for proper barometric calculation)
+* Barometric Pressure Measuring _(only in 3rd party HomeKit apps!)_
+* Custom characteristic for detecting your altitude _(used for proper barometric calculation)_
 * Reset button
 
 **Demo:**
