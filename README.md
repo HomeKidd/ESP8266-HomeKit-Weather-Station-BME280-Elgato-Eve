@@ -23,7 +23,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Humidity Measuring
 * Barometric Pressure Measuring _(only in 3rd party HomeKit apps!)_
 * Custom characteristic for detecting your altitude _(used for proper barometric calculation)_
-* Reset button
+* Reset button 
 
 **Demo:**
 
