@@ -29,7 +29,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Reset button 
 
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/ios.gif" class="center" width="250"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekid_mockup_2.jpg" class="center" width="450"/>
 
 <br/>
 
