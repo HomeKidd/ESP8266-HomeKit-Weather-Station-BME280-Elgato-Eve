@@ -17,6 +17,8 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 **This HomeKit enabled sensor works the same as [Elgato EVE Degree](https://www.evehome.com/en/eve-degree)!** 
 
+
+
 **Features:**
 
 * Temperature Measuring
@@ -25,6 +27,11 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Custom characteristic for detecting your altitude _(used for proper barometric calculation)_
 * ~~Data history~~ (not reliable enough, so its beta)
 * Reset button 
+
+<br/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/ios.gif" class="center" width="250"/>
+
+<br/>
 
 **Demo:**
 
