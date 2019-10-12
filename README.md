@@ -26,8 +26,15 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Barometric Pressure Measuring _(only in 3rd party HomeKit apps!)_
 * Custom characteristic for detecting your altitude _(used for proper barometric calculation)_
 * ~~Data history~~ (not reliable enough, so its beta)
+* Support for SSD1306 OLED screen
 * Reset button 
 
+**v2.0.0 new Features:**
+* Added support for SSD1306 Oled display _(only i2c bus version, 128x64px)_
+   OLED screen using `GPIO13 - SDA` (Wemos D7) and `GPIO14 - SCL` (Wemos D5) pins
+  _**Please keep in mind this feature is still in development!**_
+
+**If you don't want to use OLED screen, please install the latest 1.x.x release!**
 <br/>
 <img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekid_mockup_2.jpg" class="center" width="650"/>
 
