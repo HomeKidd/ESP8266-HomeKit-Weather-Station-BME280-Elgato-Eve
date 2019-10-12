@@ -34,7 +34,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
    OLED screen using `GPIO13 - SDA` (Wemos D7) and `GPIO14 - SCL` (Wemos D5) pins
   _**Please keep in mind this feature is still in development!**_
 
-**If you don't want to use OLED screen, please install the latest 1.x.x release!**
+**If you don't want to use OLED screen, please install the [latest 1.x.x release](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/releases)!** 
 <br/>
 <img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekid_mockup_2.jpg" class="center" width="650"/>
 
