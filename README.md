@@ -25,11 +25,12 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Humidity Measuring
 * Barometric Pressure Measuring _(only in 3rd party HomeKit apps!)_
 * Custom characteristic for detecting your altitude _(used for proper barometric calculation)_
-* ~~Data history~~ (not reliable enough, so its beta)
 * Support for SSD1306 OLED screen
+* Switching Temperature Display Units between Celsius and Fahrenheit _(also Barometric Pressure between hPa/inHg)_
 * Reset button 
+* ~~Data history~~ (not reliable enough, so its beta)
 
-**New Features in v2.0.0:**
+**New Features in v2.x.x:**
 * Added support for SSD1306 Oled display _(only i2c bus version, 128x64px)_ <br/>
    OLED screen using `GPIO13 - SDA` (Wemos D7) and `GPIO14 - SCL` (Wemos D5) pins <br/>
   _**Please keep in mind this feature is still in development!**_
