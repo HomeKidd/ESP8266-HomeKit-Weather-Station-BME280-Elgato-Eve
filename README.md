@@ -34,7 +34,8 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Added support for SSD1306 Oled display _(only i2c bus version, 128x64px)_ <br/>
    OLED screen using `GPIO13 - SDA` (Wemos D7) and `GPIO14 - SCL` (Wemos D5) pins <br/>
   _**Please keep in mind this feature is still in development!**_
-
+  
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/oled_gif.gif" class="center" width="250"/>
 **If you don't want to use OLED screen, please install the [latest 1.x.x release](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/releases)!** 
 
 <br/>
