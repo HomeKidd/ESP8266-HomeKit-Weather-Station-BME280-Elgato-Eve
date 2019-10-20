@@ -5,14 +5,14 @@ ESP8266 based  HomeKit Weather Station using Bosch BME280 temperature, humidi
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
 ------
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/total?color=green)](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/releases) 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/releases) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve/total?color=green)](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve/releases) 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve/releases) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
 
 
-For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/wiki/Build-Instructions) Wiki page!<br/><br/>
+For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve/wiki/Build-Instructions) Wiki page!<br/><br/>
 
 
 **This HomeKit enabled sensor works the same as [Elgato EVE Degree](https://www.evehome.com/en/eve-degree)!** 
@@ -30,7 +30,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Reset button 
 * ~~Data history~~ (not reliable enough, so its beta)
 
-**If you don't want to use OLED screen, please install the [latest 1.x.x release](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/releases)!** 
+**If you don't want to use OLED screen, please install the [latest 1.x.x release](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve/releases)!** 
 
 <br/>
 <br/>
