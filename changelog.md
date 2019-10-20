@@ -24,3 +24,20 @@
 
 * Added support for SSD1306 Oled display (i2c bus, 128x64px)
 * Temperature display Units characteristic for switching between Celsius/Fahrenheit display
+
+**v1.0.4**
+
+* Added support for LED that indicating Reset/Pairing via flashing the built-in LED
+* New Name (  WeatherMonitor )
+* Bug fixes
+
+~~**v1.0.3**~~
+
+
+**v1.0.2**
+
+* Sensor Fault detection _(at the moment only with temperature)_
+
+**v1.0.1** 
+
+* First release
