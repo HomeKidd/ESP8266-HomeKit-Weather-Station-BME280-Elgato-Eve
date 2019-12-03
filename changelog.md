@@ -1,3 +1,10 @@
+
+**v2.0.4**
+
+* Auto power off for OLED after 5 minutes to prevent screen burn-in _(on first startup the display remains powered on, but after turning on/off it enables auto power-off timer)_
+* Added Characteristic for Data History _(not working yet!)_
+
+
 **v2.0.3**
 
 * Display now can be turned On/Off via single pressing a button _(GPIO0)_
