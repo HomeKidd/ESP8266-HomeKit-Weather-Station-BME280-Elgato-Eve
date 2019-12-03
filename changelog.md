@@ -1,3 +1,9 @@
+**v2.0.5**
+
+* Screen ON/OFF now happens instantly
+* Fixed some UI bugs
+* Bug fixes
+
 
 **v2.0.4**
 
