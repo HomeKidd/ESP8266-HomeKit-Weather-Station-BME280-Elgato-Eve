@@ -1,3 +1,7 @@
+**v2.1.0**
+* Updated esp-homekit to the latest version
+* Fixed Pressure Elevation bug _(after reboot it always returned 100m)_
+
 **v2.0.5**
 
 * Screen ON/OFF now happens instantly
