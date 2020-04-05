@@ -25,8 +25,9 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Humidity Measuring
 * Barometric Pressure Measuring _(only in 3rd party HomeKit apps!)_
 * Custom characteristic for detecting your altitude _(used for proper barometric calculation)_
-* Support for SSD1306 OLED screen
+* Support for **SSD1306 OLED screen**
 * Switching Temperature Display Units between Celsius and Fahrenheit _(also Barometric Pressure between hPa/inHg)_
+* Downloadable User Manual _(via Eve app)_
 * Reset button 
 * ~~Data history~~ (not reliable enough, so its beta)
 
