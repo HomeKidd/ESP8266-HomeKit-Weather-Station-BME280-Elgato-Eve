@@ -12,7 +12,9 @@ ESP8266 based  HomeKit Weather Station using Bosch BME280 temperature, humidi
 <br/>
 
 
-For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve/wiki/Build-Instructions) Wiki page!<br/><br/>
+## [Other version also available](https://github.com/HomeKidd/ESP8266-HomeKit-New-Eve-Weather) that acts as the all new Eve Weather!
+
+## For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve/wiki/Build-Instructions) Wiki page!<br/><br/>
 
 
 **This HomeKit enabled sensor works the same as [Elgato EVE Degree](https://www.evehome.com/en/eve-degree)!** 
